@@ -1,12 +1,1 @@
-<!--
-
-CREDITS:
---------------------
-Full idea and design:
- - - Mikequez12 - - 
-Created for:
- - - T F F - -
- ( tff-games.com )
-
--->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="297.99074" height="357.58538" viewBox="0,0,297.99074,357.58538"><defs><linearGradient x1="240" y1="1.20989" x2="240" y2="358.79014" gradientUnits="userSpaceOnUse" id="color-1"><stop offset="0" stop-color="#d42f2f"/><stop offset="1" stop-color="#ffac38"/></linearGradient></defs><g transform="translate(-91.00823,-1.20477)"><g fill-rule="evenodd" stroke="none" stroke-miterlimit="10"><path d="M91.00823,60.8066l59.59671,-59.59671h238.38683v59.59671l-59.59671,59.59671v59.59671l-59.5967,58.5905v60.60292l-59.59671,59.59671h-59.59671v-238.38683h-59.59671z" fill="url(#color-1)"/><path d="M150.60494,1.20477l238.39403,0.00043l-0.0072,59.90146h-119.19341v59.59671h59.5967v59.59671h-59.5967v119.19341h-59.59671v-238.38683h-59.59671z" fill="#ffffff"/></g></g></svg>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="297.99074" height="357.58538" viewBox="0,0,297.99074,357.58538"><!--CREDITS: Full idea and design: - - Mikequez12 - - Created for: - - T F F - - ( tff-games.com )--><defs><linearGradient x1="240" y1="1.20989" x2="240" y2="358.79014" gradientUnits="userSpaceOnUse" id="color-1"><stop offset="0" stop-color="#d42f2f"/><stop offset="1" stop-color="#ffac38"/></linearGradient></defs><g transform="translate(-91.00823,-1.20477)"><g fill-rule="evenodd" stroke="none" stroke-miterlimit="10"><path d="M91.00823,60.8066l59.59671,-59.59671h238.38683v59.59671l-59.59671,59.59671v59.59671l-59.5967,58.5905v60.60292l-59.59671,59.59671h-59.59671v-238.38683h-59.59671z" fill="url(#color-1)"/><path d="M150.60494,1.20477l238.39403,0.00043l-0.0072,59.90146h-119.19341v59.59671h59.5967v59.59671h-59.5967v119.19341h-59.59671v-238.38683h-59.59671z" fill="#ffffff"/></g></g></svg>

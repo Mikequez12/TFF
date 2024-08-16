@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+:root {
+  --drop-shadow:0 0 10px #000000a0;
+}
+
+@keyframes rgb {
+  0% {
+    filter:hue-rotate(0deg) drop-shadow(var(--drop-shadow));
+  }
+  50% {
+    filter:hue-rotate(180deg) drop-shadow(var(--drop-shadow));
+  }
+  100% {
+    filter:hue-rotate(360deg) drop-shadow(var(--drop-shadow));
+  }
+}
+
+img.logo {
+  animation:rgb 5s infinite;
+}

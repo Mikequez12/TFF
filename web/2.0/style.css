@@ -15,12 +15,11 @@
 }
 
 .games > div > div { /* Game content */
-    text-align: right;
+    padding-left: 75px;
 }
 
 .games > div > div > h3,
 .games > div > div > span { /* Game title */
-    padding-left: 75px;
     text-align: center;
 }
 

@@ -8,16 +8,24 @@
 
 .games > div { /* Game "slot"*/
     background: blue;
+    border-radius: 75px;
     position: relative;
+    height: 150px;
 }
 
 .games > div > div { /* Game content */
     text-align: right;
 }
 
+.games > div > div > h3 { /* Game title */
+    padding-left: 75px;
+    text-align: center;
+}
+
 .games > div > img { /* Game icon */
     position: absolute;
     box-shadow: var(--shadow);
-    border-radius: 100%;
+    border-radius: 75px;
     width: 150px; height: 150px;
+    top: 0;
 }

@@ -9,16 +9,16 @@
 .games > div {
     display: inline-block;
     width: 50%;
+    position: relative;
+    height: 150px;
+    box-shadow: var(--shadow);
+    overflow: hidden;
 }
 
 .games > div > div { /* Game "slot"*/
     background: blue;
     width: 150px;
     border-radius: 75px;
-    position: relative;
-    height: 150px;
-    box-shadow: var(--shadow);
-    overflow: hidden;
 }
 
 .games > div > img:hover + div { /* Abrir los detalles */

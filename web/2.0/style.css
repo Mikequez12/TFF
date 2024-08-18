@@ -8,10 +8,16 @@
 
 .games > div { /* Game "slot"*/
     background: blue;
+    display: inline-block;
+    width: 150px;
     border-radius: 75px;
     position: relative;
     height: 150px;
     box-shadow: var(--shadow);
+}
+
+.games > div > img ~ .games > div {
+    width: 100%;
 }
 
 .games > div > div { /* Game content */

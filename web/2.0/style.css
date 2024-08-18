@@ -6,10 +6,13 @@
     background: red;
 }
 
-.games > div { /* Game "slot"*/
-    background: blue;
+.games > div {
     display: inline-block;
     width: 50%;
+}
+
+.games > div > div { /* Game "slot"*/
+    background: blue;
     width: 150px;
     border-radius: 75px;
     position: relative;

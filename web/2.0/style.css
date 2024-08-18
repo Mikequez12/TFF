@@ -3,7 +3,7 @@
 }
 
 .games { /* Game container */
-    background: purple;
+    background: green;
 }
 
 .games > div {
@@ -17,7 +17,7 @@
 
 .games > div > div { /* Game "slot"*/
     background: blue;
-    width: 150px;
+    width: 75px;
     border-radius: 75px;
 }
 

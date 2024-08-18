@@ -9,6 +9,7 @@
 .games > div { /* Game "slot"*/
     background: blue;
     display: inline-block;
+    width: 50%;
     width: 150px;
     border-radius: 75px;
     position: relative;

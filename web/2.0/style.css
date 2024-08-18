@@ -15,4 +15,5 @@
     position: absolute;
     box-shadow: var(--shadow);
     border-radius: 100%;
+    width: 150px; height: 150px;
 }

@@ -16,7 +16,7 @@
     box-shadow: var(--shadow);
 }
 
-.games > div > img ~ div {
+.games > div > img + div {
     width: 100%;
 }
 

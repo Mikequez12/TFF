@@ -5,3 +5,7 @@
 .games > div {
     background: blue;
 }
+
+.games > div > img {
+    border-radius: 100%;
+}

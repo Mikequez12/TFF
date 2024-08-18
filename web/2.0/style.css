@@ -18,7 +18,8 @@
     text-align: right;
 }
 
-.games > div > div > h3 { /* Game title */
+.games > div > div > h3,
+.games > div > div > span { /* Game title */
     padding-left: 75px;
     text-align: center;
 }

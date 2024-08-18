@@ -11,6 +11,7 @@
     border-radius: 75px;
     position: relative;
     height: 150px;
+    box-shadow: var(--shadow);
 }
 
 .games > div > div { /* Game content */

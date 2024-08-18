@@ -3,7 +3,7 @@
 }
 
 .games { /* Game container */
-    background: orange;
+    background: red;
 }
 
 .games > div {

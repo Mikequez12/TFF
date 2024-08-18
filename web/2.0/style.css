@@ -14,9 +14,10 @@
     position: relative;
     height: 150px;
     box-shadow: var(--shadow);
+    overflow: hidden;
 }
 
-.games > div > img + div {
+.games > div > img + div { /* Abrir los detalles */
     width: 100%;
 }
 

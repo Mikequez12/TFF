@@ -3,7 +3,7 @@
 }
 
 .games { /* Game container */
-    background: green;
+    background: orange;
 }
 
 .games > div {
@@ -19,10 +19,16 @@
     background: blue;
     width: 75px;
     border-radius: 75px;
+    height: 150px;
+    position:absolute;
+    left: 0;
+    top: 0;
+    overflow:hidden;
 }
 
-.games > div > img:hover + div { /* Abrir los detalles */
-    width: 100%;
+.game-slot > img:hover ~ .game-slot { /* Abrir los detalles */
+    width: 100% !important;
+    background: black;
 }
 
 .games > div > div { /* Game content */
